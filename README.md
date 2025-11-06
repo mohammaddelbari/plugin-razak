@@ -1,2 +1,2 @@
-# plugin-pars
+# plugin-razak
 افزونه پیامک و پرداخت وردپرس
